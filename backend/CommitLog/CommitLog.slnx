@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/BFFs/">
+    <Project Path="IdentityBFF/IdentityBFF.csproj" />
+  </Folder>
+  <Folder Name="/src/Blog/">
+    <Project Path="Blog.Api/Blog.Api.csproj" />
+    <Project Path="Blog.Application/Blog.Application.csproj" />
+    <Project Path="Blog.Domain/Blog.Domain.csproj" />
+    <Project Path="Blog.Infrastructure/Blog.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Identity/">
+    <Project Path="Identity/Identity.csproj" />
+  </Folder>
+</Solution>
