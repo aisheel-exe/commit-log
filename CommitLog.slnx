@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/BFF/">
+    <Project Path="BFF/CommitLogBFF/CommitLogBFF.csproj" />
+  </Folder>
+  <Folder Name="/Blog/">
+    <Project Path="Blog/Blog.Api/Blog.Api.csproj" />
+    <Project Path="Blog/Blog.Application/Blog.Application.csproj" />
+    <Project Path="Blog/Blog.Domain/Blog.Domain.csproj" />
+    <Project Path="Blog/Blog.Infrastructure/Blog.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Identity/">
+    <Project Path="Identity/Identity.csproj" />
+  </Folder>
+</Solution>
