@@ -1,0 +1,1 @@
+import{c as o,j as n}from"./index-CIRVcstr.js";function c(){const t=o.c(1);let e;return t[0]===Symbol.for("react.memo_cache_sentinel")?(e=n.jsx("div",{children:"Settings - Protected"}),t[0]=e):e=t[0],e}export{c as component};

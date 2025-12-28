@@ -1,0 +1,1 @@
+import{c as t,j as o}from"./index-CIRVcstr.js";function c(){const n=t.c(1);let e;return n[0]===Symbol.for("react.memo_cache_sentinel")?(e=o.jsx("div",{children:"Landing Page - Public"}),n[0]=e):e=n[0],e}export{c as component};
