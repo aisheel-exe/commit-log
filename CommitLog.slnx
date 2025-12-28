@@ -1,14 +1,16 @@
 <Solution>
-  <Folder Name="/bff-service/">
-    <Project Path="apps/bff/src/BFF.csproj" />
+  <Folder Name="/src/" />
+  <Folder Name="/src/services/" />
+  <Folder Name="/src/services/BFFs/">
+    <Project Path="src/services/BFFs/BFF.Web/BFF.Web.csproj" />
   </Folder>
-  <Folder Name="/blog-service/">
-    <Project Path="apps/blog-service/src/Blog.Api/Blog.Api.csproj" />
-    <Project Path="apps/blog-service/src/Blog.Application/Blog.Application.csproj" />
-    <Project Path="apps/blog-service/src/Blog.Domain/Blog.Domain.csproj" />
-    <Project Path="apps/blog-service/src/Blog.Infrastructure/Blog.Infrastructure.csproj" />
+  <Folder Name="/src/services/Blog/">
+    <Project Path="src/services/Blog/Blog.API/Blog.API.csproj" />
+    <Project Path="src/services/Blog/Blog.Application/Blog.Application.csproj" />
+    <Project Path="src/services/Blog/Blog.Domain/Blog.Domain.csproj" />
+    <Project Path="src/services/Blog/Blog.Infrastructure/Blog.Infrastructure.csproj" />
   </Folder>
-  <Folder Name="/identity-service/">
-    <Project Path="apps/identity-service/src/Identity.csproj" />
+  <Folder Name="/src/services/Identity/">
+    <Project Path="src/services/Identity/Identity.API/Identity.API.csproj" />
   </Folder>
 </Solution>
